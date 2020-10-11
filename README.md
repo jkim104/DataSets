@@ -1,2 +1,2 @@
 # DataSets
-Repository of datasets for analysis
+Repository of datasets for future projects
